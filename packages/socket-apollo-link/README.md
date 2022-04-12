@@ -1,32 +1,20 @@
-# @absinthe/socket-apollo-link
+# dherault-absinthe-socket-apollo-link
 
 > Absinthe Socket Apollo Link
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- START doctoc -->
+
 <!-- END doctoc -->
-
-- [Installation](#installation)
-  - [Using npm](#using-npm)
-  - [Using yarn](#using-yarn)
-- [Examples](#examples)
-- [API](#api)
-  - [createAbsintheSocketLink](#createabsinthesocketlink)
-    - [Parameters](#parameters)
-- [References](#references)
-- [License](#license)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Installation
 
 ### Using [npm](https://docs.npmjs.com/cli/npm)
 
-    $ npm install --save @absinthe/socket-apollo-link
+    $ npm install --save dherault-absinthe-socket-apollo-link
 
 ### Using [yarn](https://yarnpkg.com)
 
-    $ yarn add @absinthe/socket-apollo-link
+    $ yarn add dherault-absinthe-socket-apollo-link
 
 ## Examples
 
