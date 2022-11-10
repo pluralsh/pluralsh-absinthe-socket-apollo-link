@@ -39,7 +39,7 @@
     "core-js": "2.6.0"
   },
   "devDependencies": {
-    "nps": "5.9.3"
+    "nps": "5.9.12"
   },
   "peerDependencies": {
     "phoenix": "^1.4.0"
